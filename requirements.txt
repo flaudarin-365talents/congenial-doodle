@@ -1,2 +1,3 @@
 azure-containerregistry==1.0.0b7
 azure-identity
+click
